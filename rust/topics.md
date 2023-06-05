@@ -1,0 +1,6 @@
+- comprehensive rust course from google: https://github.com/google/comprehensive-rust
+- rye - python pkg manager : https://github.com/mitsuhiko/rye
+- distributed stream system: https://github.com/ArroyoSystems/arroyo
+- apache datafusion: https://github.com/apache/arrow-datafusion
+- GPT: rust for data science: https://github.com/keyvank/femtoGPT
+- 
